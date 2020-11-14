@@ -14,15 +14,16 @@
 dangerous situations, e.g. standing in the rollercoaster game is a big NO! (therefore, adequate room is neccesary).
 
 
-##Multiplayer options
+## Interaction with others
 
 - Bigscreen
 https://www.windowscentral.com/how-socialize-your-friends-vr-bigscreen
 - Create a party (voice communication with up to 8 users)
+- Live streaming: https://support.oculus.com/408837319677033/
 - ?
 
 
-##Alternatives
+### Alternatives
 - Developer accounts (testing of games/niet for personal use)
 https://developer.oculus.com/distribute/test-users/ 
 - Business accounts (for company use cases such as events, developments etc)
