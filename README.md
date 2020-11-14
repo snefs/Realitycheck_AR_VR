@@ -1,6 +1,6 @@
-## Oculus Quest 2
+# Oculus Quest 2
 
-# First impressions
+## First impressions
 - Installation: easy
 - Performance: high
 - Sharpness: medium, it is relatively sharp, however requires focus (and is thus extremely personal and depending on eye distrance, headstrap, usage of glasses)
@@ -14,7 +14,7 @@
 dangerous situations, e.g. standing in the rollercoaster game is a big NO! (therefore, adequate room is neccesary).
 
 
-#Multiplayer options
+##Multiplayer options
 
 - Bigscreen
 https://www.windowscentral.com/how-socialize-your-friends-vr-bigscreen
@@ -22,13 +22,13 @@ https://www.windowscentral.com/how-socialize-your-friends-vr-bigscreen
 - ?
 
 
-Alternatives
+##Alternatives
 - Developer accounts (testing of games/niet for personal use)
 https://developer.oculus.com/distribute/test-users/ 
 - Business accounts (for company use cases such as events, developments etc)
 https://business.oculus.com/ 
 
-# Accessories
+## Accessories
 
 Yes!
 - With Airholes, tested and works as expected
@@ -50,9 +50,9 @@ https://www.theverge.com/2020/11/13/21564474/oculus-quest-2-90hz-refresh-rate-li
 - 90Hz mode (was already in preview)
 
 
-## Hololens 1
+# Hololens 1
 
-# First impressions
+## First impressions
 - Installation: medium
 - Performance: medium (especially streaming the content to an external computer with the developer mode on
 - Sharpness: high, however it works the best with optimum light conditions to play immersive games
