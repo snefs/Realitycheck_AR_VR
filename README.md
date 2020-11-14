@@ -1,4 +1,4 @@
-# Oculus Quest 2
+# VR - Oculus Quest 2 
 
 ## First impressions
 - Installation: easy
@@ -16,6 +16,7 @@ dangerous situations, e.g. standing in the rollercoaster game is a big NO! (ther
 
 ## Interaction with others
 
+- Engage (your own content) 
 - Bigscreen
 https://www.windowscentral.com/how-socialize-your-friends-vr-bigscreen
 - Create a party (voice communication with up to 8 users)
@@ -51,7 +52,7 @@ https://www.theverge.com/2020/11/13/21564474/oculus-quest-2-90hz-refresh-rate-li
 - 90Hz mode (was already in preview)
 
 
-# Hololens 1
+# AR - Hololens 1
 
 ## First impressions
 - Installation: medium
